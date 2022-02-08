@@ -63,6 +63,8 @@ Similar to the above, this is a big list of dialing codes for each different cou
 - <u>**Kazakhstan**</u>
 - <u>**Kyrgyzstan**</u>
 - <u>**Malaysia**</u>
+  - [Yellow Pages](https://www.yellowpages.my/)  
+    Yellow page directory for Malaysia
 - <u>**Mongolia**</u>
 - <u>**Pakistan**</u>
 - <u>**Russia**</u>
